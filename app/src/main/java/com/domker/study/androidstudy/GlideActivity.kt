@@ -9,12 +9,9 @@ import android.widget.ImageView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.bumptech.glide.request.RequestOptions
-import kotlinx.android.synthetic.main.activity_image.*
 import java.util.*
 import kotlin.math.abs
 import android.view.MotionEvent
-
-
 
 
 class GlideActivity : AppCompatActivity() {

@@ -717,9 +717,6 @@ id barrier
 id beginning
 id blocking
 id bottom
-id btn_play
-id btn_setting
-id btn_stop
 id buttonPanel
 id buttonPause
 id buttonPlay
@@ -767,10 +764,8 @@ id homeAsUp
 id icon
 id icon_group
 id ifRoom
-id ijkPlayer
 id image
 id image_single
-id include_play_bottom
 id info
 id invisible
 id italic
@@ -779,7 +774,6 @@ id line1
 id line3
 id listMode
 id list_item
-id mediaPlayer
 id message
 id middle
 id multiply
@@ -792,7 +786,6 @@ id notification_main_column_container
 id packed
 id parent
 id parentPanel
-id pb_loading
 id percent
 id permission
 id progress_circular
@@ -801,8 +794,6 @@ id radio
 id right
 id right_icon
 id right_side
-id rl_loading
-id rl_player
 id screen
 id scrollIndicatorDown
 id scrollIndicatorUp
@@ -817,7 +808,6 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
-id seekBar
 id seekbar
 id select_dialog_listview
 id shortcut
@@ -835,7 +825,6 @@ id standard
 id start
 id submenuarrow
 id submit_area
-id surfaceView
 id tabMode
 id tag_transition_group
 id tag_unhandled_key_event_manager
@@ -850,15 +839,11 @@ id titleDividerNoCustom
 id title_template
 id top
 id topPanel
-id tv_load_msg
-id tv_play_end
-id tv_time
 id uniform
 id up
 id useLogo
 id video
 id videoView
-id view_pager
 id withText
 id wrap
 id wrap_content
@@ -895,14 +880,9 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_image
-layout activity_image_item
 layout activity_main
 layout activity_permission
-layout activity_video
-layout include_play_bottom
 layout layout_image
-layout layout_media_player
 layout layout_video
 layout notification_action
 layout notification_action_tombstone

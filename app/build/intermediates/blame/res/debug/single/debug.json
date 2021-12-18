@@ -24,10 +24,6 @@
         "source": "C:\\Users\\34995\\.gradle\\caches\\transforms-2\\files-2.1\\e99cab3351676355acd85b1174524b6a\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video.xml.flat",
-        "source": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\src\\main\\res\\layout\\activity_video.xml"
-    },
-    {
         "merged": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\34995\\.gradle\\caches\\transforms-2\\files-2.1\\e99cab3351676355acd85b1174524b6a\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
@@ -198,10 +194,6 @@
     {
         "merged": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\34995\\.gradle\\caches\\transforms-2\\files-2.1\\e99cab3351676355acd85b1174524b6a\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
-    },
-    {
-        "merged": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_media_player.xml.flat",
-        "source": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\src\\main\\res\\layout\\layout_media_player.xml"
     },
     {
         "merged": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -434,10 +426,6 @@
     {
         "merged": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\34995\\.gradle\\caches\\transforms-2\\files-2.1\\e99cab3351676355acd85b1174524b6a\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_image_item.xml.flat",
-        "source": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\src\\main\\res\\layout\\activity_image_item.xml"
     },
     {
         "merged": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1360,10 +1348,6 @@
         "source": "C:\\Users\\34995\\.gradle\\caches\\transforms-2\\files-2.1\\e99cab3351676355acd85b1174524b6a\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout_include_play_bottom.xml.flat",
-        "source": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\src\\main\\res\\layout\\include_play_bottom.xml"
-    },
-    {
         "merged": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
@@ -1398,10 +1382,6 @@
     {
         "merged": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
         "source": "C:\\Users\\34995\\.gradle\\caches\\transforms-2\\files-2.1\\f1615e6b5502d3613e05a9fe91831060\\res\\drawable\\notification_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_image.xml.flat",
-        "source": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\src\\main\\res\\layout\\activity_image.xml"
     },
     {
         "merged": "C:\\Users\\34995\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_image2.jpg.flat",
