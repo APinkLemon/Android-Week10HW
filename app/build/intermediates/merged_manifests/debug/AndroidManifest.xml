@@ -32,7 +32,6 @@
         <activity android:name="com.domker.study.androidstudy.PermissionActivity" />
         <activity android:name="com.domker.study.androidstudy.VideoActivity" />
         <activity android:name="com.domker.study.androidstudy.GlideActivity" />
-        <activity android:name="com.domker.study.androidstudy.MediaPlayerActivity" />
 
         <provider
             android:name="android.support.v4.content.FileProvider"

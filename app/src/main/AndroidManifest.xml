@@ -24,7 +24,6 @@
         <activity android:name=".PermissionActivity" />
         <activity android:name=".VideoActivity" />
         <activity android:name=".GlideActivity" />
-        <activity android:name=".MediaPlayerActivity" />
         <provider
             android:name="android.support.v4.content.FileProvider"
             android:authorities="com.domker.study.androidstudy.fileprovider"

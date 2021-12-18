@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:1-39:12
+ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:1-38:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\34995\.gradle\caches\transforms-2\files-2.1\e99cab3351676355acd85b1174524b6a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\34995\.gradle\caches\transforms-2\files-2.1\9bead4f21dcfe442b71c4197164da9fe\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.fresco:fresco:0.12.0] C:\Users\34995\.gradle\caches\transforms-2\files-2.1\ab19c4a6509dae7f2c4ac74745d21e60\AndroidManifest.xml:2:1-9:12
@@ -38,22 +38,22 @@ MERGED from [com.facebook.fresco:drawee:0.12.0] C:\Users\34995\.gradle\caches\tr
 MERGED from [com.facebook.fresco:imagepipeline:0.12.0] C:\Users\34995\.gradle\caches\transforms-2\files-2.1\681f5c2b10fc8b04c4afeaa27ddf2ce4\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:0.12.0] C:\Users\34995\.gradle\caches\transforms-2\files-2.1\608800bad8e271c86f94239efbf23ca0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fbcore:0.12.0] C:\Users\34995\.gradle\caches\transforms-2\files-2.1\5208acad023eae048d92f8d6352b4a31\AndroidManifest.xml:2:1-9:12
-INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:1-38:12
 	package
 		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:4:5-44
 		INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:1-39:12
+		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:1-38:12
 		INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:1-39:12
+		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:1-38:12
 		INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:2:11-69
@@ -70,7 +70,7 @@ ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\Andr
 	android:name
 		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:9:22-77
 application
-ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:11:5-37:19
+ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:11:5-36:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\34995\.gradle\caches\transforms-2\files-2.1\9bead4f21dcfe442b71c4197164da9fe\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\34995\.gradle\caches\transforms-2\files-2.1\9bead4f21dcfe442b71c4197164da9fe\AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\34995\.gradle\caches\transforms-2\files-2.1\0baaaff132e5cd62706ffef438cbde9c\AndroidManifest.xml:10:5-20
@@ -119,26 +119,22 @@ activity#com.domker.study.androidstudy.GlideActivity
 ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:26:9-51
 	android:name
 		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:26:19-48
-activity#com.domker.study.androidstudy.MediaPlayerActivity
-ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:27:9-57
-	android:name
-		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:27:19-54
 provider#android.support.v4.content.FileProvider
-ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:28:9-36:20
+ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:27:9-35:20
 	android:grantUriPermissions
-		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:32:13-47
+		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:31:13-47
 	android:authorities
-		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:30:13-77
+		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:29:13-77
 	android:exported
-		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:31:13-37
+		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:29:13-67
+		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:28:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:33:13-35:58
+ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:32:13-34:58
 	android:resource
-		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:35:17-55
+		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:34:17-55
 	android:name
-		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:34:17-67
+		ADDED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml:33:17-67
 uses-sdk
 INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\34995\Desktop\Chapter7-master\AndroidStudy\app\src\main\AndroidManifest.xml

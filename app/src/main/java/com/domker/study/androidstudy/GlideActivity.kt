@@ -22,8 +22,10 @@ class GlideActivity : AppCompatActivity() {
     private var yOrig = 0.0F
     private var spanOrig = 0.0F
     private var scaleOrig = 0.0F
+    private var itemNum = 0
+    private var sumNum = 3
 
-    private val pages: MutableList<View> = ArrayList()
+    private val pages: MutableList<String> = ArrayList()
     private var imageView : ImageView? = null
 
     private lateinit var translationGestureDetector : GestureDetector
@@ -32,13 +34,19 @@ class GlideActivity : AppCompatActivity() {
     private val distMin: Int = 50
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        pages.add("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F202003%2F30%2F20200330105631_2Aw8r.thumb.1000_0.jpeg")
+        pages.add("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F201701%2F20%2F20170120142750_2VYNQ.thumb.1000_0.gif")
+        pages.add("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fa56b6f1cdc9a730ed47b5a566f4077447a60e68a.jpg")
+        pages.add("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F201901%2F01%2F20190101201827_oelmf.thumb.400_0.jpg")
+        pages.add("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F202003%2F29%2F20200329042030_uCcGM.thumb.400_0.gif")
+        sumNum = pages.count()
         super.onCreate(savedInstanceState)
         setContentView(R.layout.layout_image)
 
         imageView = findViewById(R.id.image_single)
         imageView?.let {
             Glide.with(this)
-                .load("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fa56b6f1cdc9a730ed47b5a566f4077447a60e68a.jpg")
+                .load(pages[0])
                 .apply(RequestOptions().circleCrop().diskCacheStrategy(DiskCacheStrategy.ALL))
                 .into(it)
         }
@@ -56,18 +64,37 @@ class GlideActivity : AppCompatActivity() {
                 distanceX: Float,
                 distanceY: Float
             ): Boolean {
-                Log.d("GEST", "hhhhhhhhhhhhhhhhhhhhhhhhhh")
                 return true
             }
 
             override fun onLongPress(p0: MotionEvent?) {}
 
             override fun onFling(
-                p0: MotionEvent?,
-                p1: MotionEvent?,
-                p2: Float,
-                p3: Float
+                e1: MotionEvent?,
+                e2: MotionEvent?,
+                distanceX: Float,
+                distanceY: Float
             ): Boolean {
+                val dx = e2!!.x - e1!!.x
+                val dy = e1!!.y - e2!!.y
+                Log.d("PicFrag::movement", "$dx, $dy")
+                if (dx * dx + dy * dy > distMin) {
+                    if (dx > 0) {
+                        itemNum = (itemNum - 1 + sumNum) % sumNum
+                        Log.d("GEST", "RIGHT")
+                    };
+                    else {
+                        itemNum = (itemNum + 1) % sumNum
+                        Log.d("GEST", "LEFT")
+                    };
+                    imageView?.let {
+                        Glide.with(this@GlideActivity)
+                            .load(pages[itemNum])
+                            .apply(RequestOptions().circleCrop().diskCacheStrategy(DiskCacheStrategy.ALL))
+                            .into(it)
+                    }
+                }
+                Log.d("GEST", "Fling")
                 return true
             }
         })

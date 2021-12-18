@@ -15,7 +15,6 @@ class MainActivity : AppCompatActivity() {
     private fun initButton() {
         open(R.id.permission, PermissionActivity::class.java)
         open(R.id.videoView, VideoActivity::class.java)
-        open(R.id.mediaPlayer, MediaPlayerActivity::class.java)
         open(R.id.glideImage, GlideActivity::class.java)
     }
 

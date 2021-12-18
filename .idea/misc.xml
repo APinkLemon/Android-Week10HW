@@ -3,12 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/34995/Desktop/Chapter7-master/AndroidStudy/app/src/main/res/drawable/seek_bar_thumb.xml" value="0.2171875" />
         <entry key="..\:/Users/34995/Desktop/Chapter7-master/AndroidStudy/app/src/main/res/layout/activity_image.xml" value="0.2046875" />
         <entry key="..\:/Users/34995/Desktop/Chapter7-master/AndroidStudy/app/src/main/res/layout/activity_image_item.xml" value="0.2046875" />
         <entry key="..\:/Users/34995/Desktop/Chapter7-master/AndroidStudy/app/src/main/res/layout/activity_main.xml" value="0.2046875" />
         <entry key="..\:/Users/34995/Desktop/Chapter7-master/AndroidStudy/app/src/main/res/layout/activity_permission.xml" value="0.2046875" />
         <entry key="..\:/Users/34995/Desktop/Chapter7-master/AndroidStudy/app/src/main/res/layout/activity_video.xml" value="0.2046875" />
+        <entry key="..\:/Users/34995/Desktop/Chapter7-master/AndroidStudy/app/src/main/res/layout/include_play_bottom.xml" value="0.25" />
         <entry key="..\:/Users/34995/Desktop/Chapter7-master/AndroidStudy/app/src/main/res/layout/layout_image.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/34995/Desktop/Chapter7-master/AndroidStudy/app/src/main/res/layout/layout_video.xml" value="0.20104166666666667" />
       </map>
     </option>
   </component>

@@ -5,7 +5,7 @@
     android:orientation="vertical">
 
     <VideoView
-        android:id="@+id/videoView"
+        android:id="@+id/video"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1" />
@@ -23,4 +23,14 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:text="Pause" />
+
+    <SeekBar
+        android:id="@+id/seekbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxHeight="2dp"
+        android:max="100"
+        android:progress="30"
+        android:thumb="@drawable/seek_bar_thumb"/>
+
 </LinearLayout>
